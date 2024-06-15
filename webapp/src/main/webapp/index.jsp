@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Simple web page Template</title>
+    <title>AKASH GOWDA:</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
