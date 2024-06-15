@@ -28,7 +28,7 @@
     </nav>
 
     <section class="firstsection">
-        <div class="box-main">
+        <div class="box-main"
             <div class="firstHalf">
                 <h1 class="text-big" 
                     id="web">Web Technology
@@ -53,12 +53,7 @@
                     C is a procedural programming language. It
                     was initially developed by Dennis Ritchie
                     as a system programming language to write
-                    operating system. The main features of C
-                    language include low-level access to memory,
-                    simple set of keywords, and clean style,
-                    these features make C language suitable for
-                    system programming like operating system or
-                    compiler development.
+                    operating system. 
                 </p>
             </div>
         </div>
@@ -70,15 +65,7 @@
             <p class="sectionSubTag text-small">
                 Java has been one of the most popular
                 programming language for many years.
-                Java is Object Oriented. However it is
-                not considered as pure object oriented
-                as it provides support for primitive
-                data types (like int, char, etc) The
-                Java codes are first compiled into byte
-                code (machine independent code). Then
-                the byte code is run on Java Virtual
-                Machine (JVM) regardless of the
-                underlying architecture.
+                Java is Object Oriented.
             </p>
         </div>
     </section>
